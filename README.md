@@ -1,5 +1,7 @@
 # 🚢 **Titanic Survival Predictor: A Dockerized Streamlit App**
 
+Live at: https://titanic-survival-predictor-containerized-app-app-6mkzdbtuxch7m.streamlit.app
+
 ## 📌 **Overview**
 
 Imagine being aboard the Titanic 🛳️—would you have survived? This **machine learning-powered web app** predicts your survival chances based on passenger details! Built with **Python, Streamlit, and scikit-learn**, it provides a sleek UI for real-time predictions. And to make deployment effortless, **Docker** packages everything into a neat container. 🐳🚀
